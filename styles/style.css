@@ -10,3 +10,14 @@
 a:hover{
       font-weight: bold;
 }
+
+.fotosdocarosel{
+    object-fit: cover;
+    object-position: 0 90%;
+    height: 65vh;
+
+}
+
+.fotocarosel3{
+    object-position: 0 53%;
+}
