@@ -21,3 +21,7 @@ a:hover{
 .fotocarosel3{
     object-position: 0 53%;
 }
+
+a{
+    color: inherit;
+}
