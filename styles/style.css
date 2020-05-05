@@ -1,0 +1,12 @@
+.bg-roxo{
+    background: #7E459B;
+}
+
+.botao{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+a:hover{
+      font-weight: bold;
+}
