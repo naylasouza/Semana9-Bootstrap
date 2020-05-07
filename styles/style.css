@@ -13,14 +13,12 @@ a:hover{
 
 .fotosdocarosel{
     object-fit: cover;
-    object-position: 0 90%;
+    object-position: 0 92%;
     height: 65vh;
 
 }
 
-.fotocarosel3{
-    object-position: 0 53%;
-}
+
 
 a{
     color: inherit;
@@ -29,3 +27,18 @@ a{
 .caixa_de_texto{
     background-color:#7E459B;
 }
+
+.redes-sociais i{
+    font-size: 1.6rem;
+  }
+  
+  .font-roxo{
+    color: rgb(75, 38, 94);
+  }
+  
+  button{
+    width: 100px;
+  }
+  
+  button:hover{
+   opacity: .9;
